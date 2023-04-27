@@ -1,5 +1,5 @@
 /******************************************************************************/
-/* # @(#)                 ID Programa:xxmc62ap.p                             >*/
+/* # @(#)                                                                    >*/
 /* # @(#) Descripcion: Rep VO datos de embarque                              >*/
 /* # @(#)              Rep Destino de los fletes                             >*/
 /* # @(#)                                                                    >*/

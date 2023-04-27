@@ -1,5 +1,5 @@
 /******************************************************************************/
-/* # @(#)                 ID Programa:xxmc71so.p                             >*/
+/* # @(#)                                                                    >*/
 /* # @(#) Descripcion: Rep consulta anticipos (cliente, factura, pedido      >*/
 /* # @(#)                                                                    >*/
 /* # @(#)                                                                    >*/
